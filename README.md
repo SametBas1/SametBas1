@@ -25,6 +25,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sametbas1&" alt="sametbas1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametbas1&show_icons=true&locale=en&layout=compact" alt="sametbas1" /></p>
 
 - 📫 How to reach me
 - **Email:** **sametbasq@gmail.com**
