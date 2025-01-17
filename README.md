@@ -25,11 +25,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametbas1&" alt="GitHub Streak Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sametbas1&show_icons=true&locale=en&layout=compact" alt="Top Languages Stats" />
 </div>
-
 
 ---
 
