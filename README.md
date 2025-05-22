@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/SametBas1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Samet+Baş+✨;📚+Software+Support+Specialist💻;Welcome+To+My+Profile+👀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Samet+Baş+✨;📚+Software+Support+Specialist 💻;Welcome+To+My+Profile+👀" alt="Typing SVG" />
   </a>
 </div>
 
