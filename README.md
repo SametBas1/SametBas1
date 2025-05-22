@@ -4,9 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/SametBas1">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=✨+Samet+Baş+✨;📚+Software+Support+Specialist 💻;Welcome+To+My+Profile+👀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%E2%9C%A8%20Samet%20Ba%C5%9F%20%E2%9C%A8;%F0%9F%9B%A0%20Software%20Support%20Specialist%20%F0%9F%92%BC;Welcome%20To%20My%20Profile%20%F0%9F%91%80" alt="Typing SVG" />
   </a>
 </div>
+
+
 
 
 <h3 align="center">Building software, breaking barriers, and solving problems.</h3>
